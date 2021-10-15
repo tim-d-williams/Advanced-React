@@ -32,9 +32,9 @@ export const products = [
         etag: 'e1fdf84d5126b6ca2e1c8ef9532be5a5',
         placeholder: false,
         url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1576791335/sick-fits-keystone/5dfbed262849d7961377c2c0.jpg',
+          'http://res.cloudinary.com/timtx66/image/upload/v1633189106/sick-fits/hondo_lifh2w.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1576791335/sick-fits-keystone/5dfbed262849d7961377c2c0.jpg',
+          'https://res.cloudinary.com/timtx66/image/upload/v1633189106/sick-fits/hondo_lifh2w.jpg',
         original_filename: 'file',
       },
     },
@@ -71,9 +71,9 @@ export const products = [
         etag: 'aebe8e9cc98ee4ad71682f19af85745b',
         placeholder: false,
         url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579815920/sick-fits-keystone/5e2a13f0689b2835ae71d1a5.jpg',
+          'http://res.cloudinary.com/timtx66/image/upload/v1633189106/sick-fits/270-camo-sunset_dr8jo9.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579815920/sick-fits-keystone/5e2a13f0689b2835ae71d1a5.jpg',
+          'https://res.cloudinary.com/timtx66/image/upload/v1633189106/sick-fits/270-camo-sunset_dr8jo9.jpg',
         original_filename: 'file',
       },
     },
@@ -110,9 +110,9 @@ export const products = [
         etag: 'b6fbc18b196c68e2b87f51539b849e70',
         placeholder: false,
         url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579815935/sick-fits-keystone/5e2a13ff689b2835ae71d1a7.jpg',
+          'http://res.cloudinary.com/timtx66/image/upload/v1633189107/sick-fits/kith-hoodie_td1v8x.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579815935/sick-fits-keystone/5e2a13ff689b2835ae71d1a7.jpg',
+          'https://res.cloudinary.com/timtx66/image/upload/v1633189107/sick-fits/kith-hoodie_td1v8x.jpg',
         original_filename: 'file',
       },
     },
@@ -149,9 +149,9 @@ export const products = [
         etag: 'ce0f36da93c60c5d4406657225206f70',
         placeholder: false,
         url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579815957/sick-fits-keystone/5e2a1413689b2835ae71d1a9.png',
+          'http://res.cloudinary.com/timtx66/image/upload/v1633189110/sick-fits/TNF-fanorak_dzakae.png',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579815957/sick-fits-keystone/5e2a1413689b2835ae71d1a9.png',
+          'https://res.cloudinary.com/timtx66/image/upload/v1633189110/sick-fits/TNF-fanorak_dzakae.png',
         original_filename: 'file',
       },
     },
@@ -188,9 +188,9 @@ export const products = [
         etag: '5550566c7fab113ba32d85ed08f54faa',
         placeholder: false,
         url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579815980/sick-fits-keystone/5e2a142c689b2835ae71d1ab.jpg',
+          'http://res.cloudinary.com/timtx66/image/upload/v1633189108/sick-fits/vapormax_s0kmd8.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579815980/sick-fits-keystone/5e2a142c689b2835ae71d1ab.jpg',
+          'https://res.cloudinary.com/timtx66/image/upload/v1633189108/sick-fits/vapormax_s0kmd8.jpg',
         original_filename: 'file',
       },
     },
@@ -227,9 +227,9 @@ export const products = [
         etag: '3655bfd83998492b8421782db868c9df',
         placeholder: false,
         url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579815999/sick-fits-keystone/5e2a143f689b2835ae71d1ad.jpg',
+          'http://res.cloudinary.com/timtx66/image/upload/v1633189107/sick-fits/coral-yeti_c0xea1.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579815999/sick-fits-keystone/5e2a143f689b2835ae71d1ad.jpg',
+          'https://res.cloudinary.com/timtx66/image/upload/v1633189107/sick-fits/coral-yeti_c0xea1.jpg',
         original_filename: 'file',
       },
     },
@@ -266,9 +266,9 @@ export const products = [
         etag: '3d68591332785ae5273ed43b1aa91712',
         placeholder: false,
         url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579816030/sick-fits-keystone/5e2a145d689b2835ae71d1af.jpg',
+          'http://res.cloudinary.com/timtx66/image/upload/v1633189107/sick-fits/naked-and-famous-denim_eadbze.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579816030/sick-fits-keystone/5e2a145d689b2835ae71d1af.jpg',
+          'https://res.cloudinary.com/timtx66/image/upload/v1633189107/sick-fits/naked-and-famous-denim_eadbze.jpg',
         original_filename: 'file',
       },
     },
@@ -305,9 +305,9 @@ export const products = [
         etag: 'd89ab8ecc366bc63464a3eeef6ef3010',
         placeholder: false,
         url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579816060/sick-fits-keystone/5e2a147b689b2835ae71d1b1.png',
+          'http://res.cloudinary.com/timtx66/image/upload/v1633189109/sick-fits/rimowa_o3ayj0.png',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579816060/sick-fits-keystone/5e2a147b689b2835ae71d1b1.png',
+          'https://res.cloudinary.com/timtx66/image/upload/v1633189109/sick-fits/rimowa_o3ayj0.png',
         original_filename: 'file',
       },
     },
@@ -344,9 +344,9 @@ export const products = [
         etag: '8aed0984d37a3d12faa832860b29d24b',
         placeholder: false,
         url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579816093/sick-fits-keystone/5e2a149b689b2835ae71d1b3.jpg',
+          'http://res.cloudinary.com/timtx66/image/upload/v1633189107/sick-fits/patagonia_black_hole_q4bmaf.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579816093/sick-fits-keystone/5e2a149b689b2835ae71d1b3.jpg',
+          'https://res.cloudinary.com/timtx66/image/upload/v1633189107/sick-fits/patagonia_black_hole_q4bmaf.jpg',
         original_filename: 'file',
       },
     },
@@ -383,9 +383,9 @@ export const products = [
         etag: '3a4b97ef88c550dcd6c2d399d1bc698e',
         placeholder: false,
         url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579816114/sick-fits-keystone/5e2a14b1689b2835ae71d1b5.jpg',
+          'http://res.cloudinary.com/timtx66/image/upload/v1633189107/sick-fits/nudie-belt_n5nnav.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579816114/sick-fits-keystone/5e2a14b1689b2835ae71d1b5.jpg',
+          'https://res.cloudinary.com/timtx66/image/upload/v1633189107/sick-fits/nudie-belt_n5nnav.jpg',
         original_filename: 'file',
       },
     },
@@ -422,9 +422,9 @@ export const products = [
         etag: 'f9c8725f815a6873cbdc47ba3f869049',
         placeholder: false,
         url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579816128/sick-fits-keystone/5e2a14bf689b2835ae71d1b7.jpg',
+          'http://res.cloudinary.com/timtx66/image/upload/v1633189106/sick-fits/canada-goose_yfg1t3.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579816128/sick-fits-keystone/5e2a14bf689b2835ae71d1b7.jpg',
+          'https://res.cloudinary.com/timtx66/image/upload/v1633189106/sick-fits/canada-goose_yfg1t3.jpg',
         original_filename: 'file',
       },
     },
@@ -461,9 +461,9 @@ export const products = [
         etag: '44cf57f8218f135b82cfa5df0da92a49',
         placeholder: false,
         url:
-          'http://res.cloudinary.com/wesbos/image/upload/v1579816141/sick-fits-keystone/5e2a14cc689b2835ae71d1b9.jpg',
+          'http://res.cloudinary.com/timtx66/image/upload/v1633189107/sick-fits/ultra-boost_gsovgl.jpg',
         secure_url:
-          'https://res.cloudinary.com/wesbos/image/upload/v1579816141/sick-fits-keystone/5e2a14cc689b2835ae71d1b9.jpg',
+          'https://res.cloudinary.com/timtx66/image/upload/v1633189107/sick-fits/ultra-boost_gsovgl.jpg',
         original_filename: 'file',
       },
     },
